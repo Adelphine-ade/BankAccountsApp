@@ -3,7 +3,25 @@
 A desktop-based banking management system developed using C# Windows Forms and MySQL.
 The application demonstrates Object-Oriented Programming, database integration,
 account management, and basic banking operations.
-<img width="1350" height="708" alt="banking-system" src="https://github.com/user-attachments/assets/4c65d2b5-20a4-44ad-b00a-5b2fe55233a4" />
+
+###BankAccounts Grid
+<img width="1371" height="664" alt="BankAccounts-grid" src="https://github.com/user-attachments/assets/9496d96a-0d69-4864-a6dc-a68cc9083c53" />
+
+### BankAccounts Search
+<img width="1336" height="701" alt="BankAccounts-search" src="https://github.com/user-attachments/assets/c86ab618-3eb5-4a7a-8d8a-6b8b6bbb5ada" />
+
+###BankAccounts Create Accounts with InterestRate of 10%
+<img width="1349" height="695" alt="BankAccounts-create Account with interestRate" src="https://github.com/user-attachments/assets/e57f6c63-4f5b-457e-b258-d55a2de60f72" />
+
+### BankAccounts Deposit
+
+<img width="1330" height="695" alt="BankAccounts-deposit" src="https://github.com/user-attachments/assets/c0860d01-8ce1-4482-bdb0-e83e941ad2b8" />
+
+###BankAccounts withdraw
+<img width="1341" height="689" alt="BankAccounts-withdraw" src="https://github.com/user-attachments/assets/400ff092-dcb0-4a94-9a65-f78e100a8116" />
+
+### After some transactions BankAccounts
+<img width="1356" height="685" alt="BankAccounts" src="https://github.com/user-attachments/assets/64b7296a-d113-4f20-a924-08473f9acb43" />
 
 ## ✨ Key Features
 
