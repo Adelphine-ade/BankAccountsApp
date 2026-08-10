@@ -7,7 +7,7 @@ account management, and basic banking operations.
 ###BankAccounts Grid
 <img width="1371" height="664" alt="BankAccounts-grid" src="https://github.com/user-attachments/assets/9496d96a-0d69-4864-a6dc-a68cc9083c53" />
 
-### BankAccounts Search
+###BankAccounts Search
 <img width="1336" height="701" alt="BankAccounts-search" src="https://github.com/user-attachments/assets/c86ab618-3eb5-4a7a-8d8a-6b8b6bbb5ada" />
 
 ###BankAccounts Create Accounts with InterestRate of 10%
